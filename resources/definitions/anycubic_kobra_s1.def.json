@@ -10,7 +10,8 @@
         "file_formats": "text/x-gcode",
         "has_machine_quality": true,
         "has_materials": true,
-        "platform": "anycubic_kobra_s1_buildplate.stl",
+        "platform": "anycubic_kobra_s1_buildplate.obj",
+        "platform_texture": "anycubic_kobra_s1_buildplate_texture.svg",
         "has_textured_buildplate": true,
         "machine_extruder_trains": { "0": "anycubic_kobra_s1_extruder_0" }
     },
