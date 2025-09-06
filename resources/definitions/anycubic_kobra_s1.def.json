@@ -13,7 +13,12 @@
         "platform": "anycubic_kobra_s1_buildplate.obj",
         "platform_texture": "anycubic_kobra_s1_buildplate_texture.svg",
         "has_textured_buildplate": true,
-        "machine_extruder_trains": { "0": "anycubic_kobra_s1_extruder_0" }
+        "machine_extruder_trains": { "0": "anycubic_kobra_s1_extruder_0" },
+        "has_variant_buildplates": false,
+        "has_variants": true,
+        "preferred_variant_name": "0.4mm",
+        "preferred_quality_type": "normal",
+        "quality_definition": "anycubic_kobra_s1"
     },
     "overrides":
     {
